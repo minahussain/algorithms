@@ -1,0 +1,36 @@
+# Algorithms 
+
+- Mathematical background
+  - Complexity
+- Graph algorithms
+  - connectivity
+  - bipartiteness
+  - topological sorting
+- Greedy algorithms
+  - shortest paths
+  - minimum spanning trees
+  - scheduling
+- Divide-and-conquer algorithms
+  - geometric algorithms
+  - fast Fourier transform
+- Dynamic programming
+  - weighted interval scheduling
+  - knapsack
+  - sequence alignment
+  - shortest paths
+- Network flows
+  - Ford-Fulkerson algorithm
+  - applications
+- NP-completeness 
+  - P and NP
+  - reductions
+  - Cook-Levin theorem
+  - Approximation algorithms
+    - load balancing
+    - set cover
+  - Randomized algorithms
+    - minimum cut
+    - game tree evaluation
+  - Quantum algorithms
+    - quantum circuits
+    - Deutsch’s problem 
